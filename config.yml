@@ -1,0 +1,8 @@
+Name : 'OpenRedScan',
+Description : "Multifunctional open redirection vulnerability scanner.",
+Version : 'v1.0.0',
+Author : 'Md. Nur habib',
+Gmail : 'thenurhabib@gmail.com',
+Used Language : 'python', 'bash',
+keywords : 'hacking','cybersecurity','bugBounty','open redirection'
+Hakcer's choice : True
